@@ -1,4 +1,4 @@
-# Historia-com-Dados-Site
+# Historia-com-landing Page
 Neste projeto Proposto chamado "Historia com dados"  Proposto pelo meu professor criei uma landing page e utilizando  o story kine contei a historia do meu genero de musica favorito
 
 
